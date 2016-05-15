@@ -1,6 +1,6 @@
 # neuroscience
 ## Nervous System
-The Nervous System is a vast biological computing device, divided into two broad classes, namely, the Central Nervous System (CNS) and Peripheral Nervous System (PNS).
+The Nervous System is a vast biological computing device formed by a network of grey matter regions, interconnected by white matter tracts and are divided into two broad classes, namely, the Central Nervous System (CNS) and Peripheral Nervous System (PNS).
 ## Central Nervous System
 The Central Nervous System comprises of the forebrain, midbrain, hindbrain and the Spinal Chord.
 ## Spinal Chord
